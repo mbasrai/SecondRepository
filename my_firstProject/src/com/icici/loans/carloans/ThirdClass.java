@@ -7,7 +7,6 @@ public class ThirdClass {
 	{
 		System.out.println("This is the start..........");
 		System.out.println("I am learning .......");
-		System.out.println("adding one more line");
 
 	}
 
